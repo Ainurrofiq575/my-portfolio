@@ -167,7 +167,7 @@ export default function Home() {
   // Data Timeline Akademik & Pengalaman
   const milestones = [
     {
-      period: "2021 — Sekarang",
+      period: "2023 — Sekarang",
       role: "Mahasiswa D4 Teknik Informatika",
       organization: "Universitas Harkat Negeri (eks-Poltek Harber)",
       description:
